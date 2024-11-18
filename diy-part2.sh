@@ -19,3 +19,4 @@ rm -rf feeds/luci/applications/luci-app-openclash
 git clone -b master --single-branch --filter=blob:none https://github.com/vernesong/OpenClash.git feeds/luci/applications/luci-app-openclash
 #AdguardHome
 git clone https://github.com/rufengsuixing/luci-app-adguardhome package/luci-app-adguardhome
+git clone https://github.com/pmkol/openwrt-eqosplus package/luci-app-eqosplus
